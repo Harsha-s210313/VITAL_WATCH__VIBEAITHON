@@ -1,0 +1,5 @@
+**Problem Statement: VitalWatch**
+
+**The Challenge**: We have identified a significant issue in patient care: the reliance on infrequent, manual checks of vital signs. This approach leaves patients vulnerable to unmonitored medical events, such as sudden cardiac arrests, drastic drops in blood oxygen levels, or falls, which can lead to severe and preventable harm or even death. A single caregiver cannot effectively be in multiple places at once, and a momentary lapse in attention can have catastrophic consequences.
+
+**Our Solution:** We have developed **VitalWatch** to solve this problem by creating a continuous, real-time patient monitoring system. Our wearable devices track critical vital signs and use a robust, dual-mode communication protocol (ESP-NOW with a Wi-Fi fallback) to instantly and reliably alert a caregiver. This allows for proactive intervention, ensuring that a caregiver is immediately notified of any medical emergency, regardless of their location. Our system's goal is to bridge the monitoring gap, enhance patient safety, and empower caregivers to provide timely, life-saving care.
