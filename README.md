@@ -9,9 +9,9 @@ Hardware details for the Vital environment - Block diagrams , architecture , flo
 
 Kalidindi Akash Varma         -     TEAM LEAD
 
-Madabattula Surya Teja        -     SOFTWARE DESIGNER
+Madabattula Surya Teja        -     HARDWARE DESIGNER
 
-Thirakala Pranav Sai          -     HARDWARE DESIGNER
+Thirakala Pranav Sai          -     R&D 
 
 Kaknnajyosula Harsha Vardhan  -     TESTING ENGINEER
 
