@@ -89,19 +89,19 @@ flowchart TD
 ```bash
 VITAL_WATCH__VIBEAITHON/
 │
-├── FIRMWARE/                 # All ESP32 firmware code
-│   ├── Master/               # Code for Nurse Watch (Master mode)
-│   └── Slave/                # Code for Patient Watch (Slave mode)
+├── FIRMWARE/                            # All ESP32 firmware code
+│   ├── Master/                          # Code for Nurse Watch (Master mode)
+│   └── Slave/                           # Code for Patient Watch (Slave mode)
 │
-├── HARDWARE/                 # Hardware design files
-│   ├── Schematics/           # Circuit diagrams
-│   ├── PCB_Layouts/          # PCB board design
-│   └── Components/           # List of sensors & parts
+├── HARDWARE/                            # Hardware design files
+│   ├── Schematics/                      # Circuit diagrams
+│   ├── PCB_Layouts/                     # PCB board design
+│   └── Components datasheets/           # List of sensors & parts
 │
-├── docs/                     # Documentation
+├── docs/                                # Documentation
 │   ├── System_Architecture.md
 │   ├── Flowcharts/
 │   └── Diagrams/
 │
-├── LICENSE                   # License file (MIT)
-└── README.md                 # Project documentation (this file)
+├── LICENSE                              # License file (MIT)
+└── README.md                            # Project documentation (this file)
